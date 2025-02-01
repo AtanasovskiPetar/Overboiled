@@ -2,15 +2,7 @@
 
 Welcome to **Overboiled**, our award-winning hybrid-casual mobile game created during the Global Game Jam 2025! Overboiled took home the **Best Hybrid-Casual Game** prize, and I am excited to share our creation with you.
 
-This project was collaboratively created by:
-
-- **[Nikola Kostovski](https://www.linkedin.com/in/nikola-kostovski-64b232176)**
-- **[Gjorgi Nechovski](https://www.linkedin.com/in/gjorgi-nechovski-b498b2275/)**
-- **[Nikola Dinevski](https://github.com/ndinevski)**
-- **[Matej Kardula](https://github.com/mateycardula/)**
-- **[Petar Atanasovski](https://github.com/AtanasovskiPetar)**
-
-Shout out to Nikola Dinevski for crafting and maintaining this comprehensive README documentation.
+Shout out to Nikola Dinevski for crafting this comprehensive README documentation.
 
 ## ![image](https://github.com/user-attachments/assets/97582921-6573-4f9c-af7e-c665ecc61997)
 
@@ -130,11 +122,11 @@ Shout out to Nikola Dinevski for crafting and maintaining this comprehensive REA
 
 - **Development**: Everything (design, code, audio) was crafted from scratch during Global Game Jam 2025, except for the background music track.
 - **Team**:
-  - Matej Kardula - Developer
-  - Nikola Kostovski - Game Design
-  - Nikola Dinevski - Developer
-  - Petar Atanasovski - Developer
-  - Gjorgi Nechovski - Developer
+  - **[Matej Kardula](https://github.com/mateycardula/)** - Developer
+  - **[Nikola Kostovski](https://www.linkedin.com/in/nikola-kostovski-64b232176)** - Game Design
+  - **[Nikola Dinevski](https://github.com/ndinevski)** - Developer
+  - **[Petar Atanasovski](https://github.com/AtanasovskiPetar)** - Developer
+  - **[Gjorgi Nechovski](https://www.linkedin.com/in/gjorgi-nechovski-b498b2275/)** - Developer
 
 Feel free to reach out if you have any questions or would like to contribute!
 
